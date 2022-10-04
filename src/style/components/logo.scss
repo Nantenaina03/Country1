@@ -1,0 +1,20 @@
+.logo {
+    display: flex;
+    background-image: url(../../assets/img/sary.jpg);
+    margin: 5px auto;
+    padding: 5px 0;
+    box-shadow: 0 2px 3px black;
+    width: 200px;
+    border-radius: 10px;
+
+    img {
+        height: 40px;
+        margin-left: 15px;
+    }
+
+    h3 {
+        margin-left: 10px;
+        margin-top: 10px;
+        color: rgb(64, 183, 223);
+    }
+}

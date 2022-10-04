@@ -1,0 +1,26 @@
+.card:hover{
+    opacity: 1;
+    background-color:rgba($color: #232020, $alpha: 0.7);
+}
+.card{
+    translate: true;
+    opacity: 0.8;
+    color: white;
+    min-height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 35px 0px 0px 0px;
+    img{
+        width: 200px;
+        height: 100px;
+        border-radius: 10px;
+    }
+}
+ul{
+    padding: 5px;
+    display:block;
+    li{
+        float: left;
+    }
+}
